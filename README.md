@@ -3,7 +3,9 @@ Professional Certs Commands References Cheat Sheets
 
 
 ## Networking Certs
-1. CCNA
+CCNA: Theory: https://www.howtonetwork.com/free-ccna-study-guide-ccna-book/
+CCNA: Commands: CCNA folder
+
 
 
 
