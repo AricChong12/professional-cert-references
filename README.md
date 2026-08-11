@@ -15,8 +15,7 @@ CEH [Theory] : https://ceh-practical.cavementech.com/
 
 
 
-## ZinWen
-Certified in ...
+
 
 
 
