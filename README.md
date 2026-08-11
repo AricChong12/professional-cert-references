@@ -1,8 +1,8 @@
-# professional-cert-references
+# Professional-Cert-References
 Professional Certs Commands References Cheat Sheets
 
 
-## Certs
+## Networking Certs
 CCNA
 
 
