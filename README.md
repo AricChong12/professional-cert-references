@@ -5,6 +5,8 @@ Professional Certs Commands References Cheat Sheets
 ## Networking Certs
 CCNA [Theory] : https://www.howtonetwork.com/free-ccna-study-guide-ccna-book/
 
+CCIE [Theory] : https://www.networkacademy.io/ccie-enterprise
+
 
 
 ## Cybersecurity Certs
