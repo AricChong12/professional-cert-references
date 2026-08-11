@@ -8,7 +8,7 @@ Professional Certs Commands References Cheat Sheets
 
 
 ## Cybersecurity Certs
-Coming soon 
+1. Coming soon 
 
 
 
