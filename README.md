@@ -6,10 +6,14 @@ Professional Certs Commands References Cheat Sheets
 CCNA [Theory] : https://www.howtonetwork.com/free-ccna-study-guide-ccna-book/
 
 
+CCNA Automation / DevNet [Theory] : https://www.youtube.com/watch?v=8qUJZmr0LCs&list=PLN920WqCWwfzauVIyiGlxHUYjFv-eJ95x
+
+
 CCNP [Theory] : https://www.youtube.com/watch?v=Ypk77FytrWw&list=PLhfrWIlLOoKPM3poHlHLpw-b6cigthng2
 
 
 CCIE [Theory] : https://www.networkacademy.io/ccie-enterprise
+
 
 
 
