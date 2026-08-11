@@ -11,4 +11,7 @@ CCNA [Theory] : https://www.howtonetwork.com/free-ccna-study-guide-ccna-book/
 CompTIA Security+ [Theory] : https://www.howtonetwork.com/comptia-security-study-guide-free/
 
 
+CEH [Theory] : https://ceh-practical.cavementech.com/
+
+
 
