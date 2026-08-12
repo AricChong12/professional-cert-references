@@ -30,6 +30,9 @@ CEH [Theory] : https://ceh-practical.cavementech.com/
 🔴 OSCP [Theory] : https://www.youtube.com/watch?v=HUmtfFKKWWc
 
 
+🔴 OSEP [Theory] : https://steffinstanly.gitbook.io/osep-notes
+
+
 🔵 CySA+ [Theory] : 
 
 
