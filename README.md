@@ -31,6 +31,8 @@ CEH [Theory] : https://ceh-practical.cavementech.com/
 
 
 🔵 CySA+ [Theory] : 
+
+
 https://www.youtube.com/watch?v=IGihuL5clDs&list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx
 
 
