@@ -18,7 +18,14 @@ https://www.youtube.com/watch?v=Ypk77FytrWw&list=PLhfrWIlLOoKPM3poHlHLpw-b6cigth
 https://ccnp-sp.gitbook.io/studyguide
 
 
-CCIE [Theory] : https://www.networkacademy.io/ccie-enterprise
+CCIE [Theory] : 
+
+
+https://www.networkacademy.io/ccie-enterprise
+
+
+
+https://ccie-sp.gitbook.io/ccie-spv5.1-labs
 
 
 
