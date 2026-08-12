@@ -24,7 +24,18 @@ CompTIA Security+ [Theory] : https://www.howtonetwork.com/comptia-security-study
 CEH [Theory] : https://ceh-practical.cavementech.com/
 
 
-eJPT [Theory] : https://www.youtube.com/watch?v=pdgBU9MDAwE
+🔴 eJPT [Theory] : https://www.youtube.com/watch?v=pdgBU9MDAwE
+
+
+🔴 OSCP [Theory] : https://www.youtube.com/watch?v=HUmtfFKKWWc
+
+
+🔵 CySA+ [Theory] : 
+https://www.youtube.com/watch?v=IGihuL5clDs&list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx
+https://www.youtube.com/watch?v=kFfAr6wRp7M
+
+
+🔵 CISSP [Theory] : https://www.youtube.com/watch?v=J-su239XmCE&list=PLNoUpEKd6YvCCLFlyIlines6A5-dsE_0X
 
 
 
