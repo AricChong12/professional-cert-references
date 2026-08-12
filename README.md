@@ -24,6 +24,9 @@ CompTIA Security+ [Theory] : https://www.howtonetwork.com/comptia-security-study
 CEH [Theory] : https://ceh-practical.cavementech.com/
 
 
+eJPT [Theory] : https://www.youtube.com/watch?v=pdgBU9MDAwE
+
+
 
 
 
