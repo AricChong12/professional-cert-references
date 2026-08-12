@@ -42,13 +42,7 @@ https://www.youtube.com/watch?v=kFfAr6wRp7M
 🔵 CISSP [Theory] : https://www.youtube.com/watch?v=J-su239XmCE&list=PLNoUpEKd6YvCCLFlyIlines6A5-dsE_0X
 
 
-## Artificial Intelligence Certs
-Coming soon
 
-
-
-## Software Engineering Certs
-Coming Soon
 
 
 
